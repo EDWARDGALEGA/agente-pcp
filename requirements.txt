@@ -1,0 +1,5 @@
+anthropic
+mcp>=2
+pandas
+fastapi
+uvicorn

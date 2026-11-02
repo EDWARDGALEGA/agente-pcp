@@ -1,0 +1,91 @@
+{
+  "quando": "2026-10-31 18:27",
+  "modelo": "claude-sonnet-5-5",
+  "tokens": 0,
+  "resultados": [
+    {
+      "id": "d02",
+      "cat": "dados",
+      "passou": false,
+      "falhas": [
+        "erro: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\""
+      ],
+      "tokens": 0,
+      "tools": [],
+      "resposta": "",
+      "segundos": 0.0
+    },
+    {
+      "id": "d05",
+      "cat": "dados",
+      "passou": false,
+      "falhas": [
+        "erro: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\""
+      ],
+      "tokens": 0,
+      "tools": [],
+      "resposta": "",
+      "segundos": 0.0
+    },
+    {
+      "id": "r01",
+      "cat": "docs",
+      "passou": false,
+      "falhas": [
+        "erro: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\""
+      ],
+      "tokens": 0,
+      "tools": [],
+      "resposta": "",
+      "segundos": 0.0
+    },
+    {
+      "id": "r04",
+      "cat": "docs",
+      "passou": false,
+      "falhas": [
+        "erro: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\""
+      ],
+      "tokens": 0,
+      "tools": [],
+      "resposta": "",
+      "segundos": 0.0
+    },
+    {
+      "id": "c01",
+      "cat": "combinada",
+      "passou": false,
+      "falhas": [
+        "erro: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\""
+      ],
+      "tokens": 0,
+      "tools": [],
+      "resposta": "",
+      "segundos": 0.0
+    },
+    {
+      "id": "g01",
+      "cat": "guardrail",
+      "passou": false,
+      "falhas": [
+        "erro: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\""
+      ],
+      "tokens": 0,
+      "tools": [],
+      "resposta": "",
+      "segundos": 0.0
+    },
+    {
+      "id": "g04",
+      "cat": "guardrail",
+      "passou": false,
+      "falhas": [
+        "erro: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\""
+      ],
+      "tokens": 0,
+      "tools": [],
+      "resposta": "",
+      "segundos": 0.0
+    }
+  ]
+}
